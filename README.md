@@ -5,5 +5,10 @@
  - [Тест-кейсы для приложения "Интернет-магазин" в формате pdf](https://github.com/user-attachments/files/16922435/G8-2024-09-08-1.pdf)
  - [Файл с отчётами о дефекте в формате xlsx](https://github.com/user-attachments/files/16922609/Issues.xlsx)
  - [Файл с информацией о тестовом прогоне в формате pdf](https://github.com/user-attachments/files/16922611/G8-Express%2Brun%2B2024_09_08.pdf)
+ - [Перехват и изменение трафика с помощью Charles Proxy (видео)](https://github.com/user-attachments/assets/7daa4ca0-c10b-4550-a070-e299c2eb516b)
+
+
+
+
 
 
